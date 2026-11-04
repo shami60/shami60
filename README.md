@@ -2,7 +2,7 @@
 
 # Web Development · Learning by Building
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=0B6EFD&center=true&vCenter=true&width=600&lines=I+Build%2C+Learn+%26+Ship.)](https://github.com/shami60)
+# I Build, Learn & Ship.
 
 I'm a beginner web developer building real things with HTML, CSS, and JavaScript — not just tutorials. My focus is turning ideas into working websites and tools you can actually use.
 
@@ -13,26 +13,34 @@ I'm a beginner web developer building real things with HTML, CSS, and JavaScript
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-## 📊 GitHub Stats
+## 📊 At a Glance
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shami60&show_icons=true&theme=radical&hide_border=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shami60&layout=compact&theme=radical&hide_border=false)
+![Public Repositories](https://img.shields.io/badge/6%2B-Public_Repositories-2EA043?style=for-the-badge&logo=github&logoColor=white)
+![Featured Projects](https://img.shields.io/badge/3-Featured_Projects-0B6EFD?style=for-the-badge&logo=github&logoColor=white)
+![Focus](https://img.shields.io/badge/Focus-Web_Development-8957E5?style=for-the-badge&logo=github&logoColor=white)
+![On GitHub Since](https://img.shields.io/badge/On_GitHub_Since-2022-000000?style=for-the-badge&logo=github&logoColor=white)
 
-| 6+ | 3 | 1 |
-| --- | --- | --- |
-| Public Repositories | Featured Projects | Focus: Web Development |
+## 🚀 Projects
 
-## Projects
+[![MYWEBSITE](https://img.shields.io/badge/MYWEBSITE-Personal_Website-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/shami60/MYWEBSITE)
+[![Calculator](https://img.shields.io/badge/Calculator-Working_Calculator-1572B6?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/shami60/Calculator)
+[![cozyadventure](https://img.shields.io/badge/cozyadventure-AI_Experiment-8957E5?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shami60/cozyadventure)
 
 - **MYWEBSITE** — A personal website, built from scratch in HTML.
 - **Calculator** — A working calculator, built with HTML.
 - **cozyadventure** — An experimental project, built with AI assistance.
 
-## Beyond Code
+## 🎮 Beyond Code
+
+![VALORANT](https://img.shields.io/badge/VALORANT-Aim_%7C_Strategy_%7C_Calm_Under_Pressure-FF4655?style=for-the-badge&logo=riotgames&logoColor=white)
+![Debugging Energy](https://img.shields.io/badge/Same_Energy-Debugging-000000?style=for-the-badge&logo=github&logoColor=white)
 
 Off the keyboard, you'll usually find me playing VALORANT. I like games that reward aim, strategy, and staying calm under pressure — pretty much the same energy I bring to debugging.
 
-## Journey
+## 🗓️ Journey
+
+![2022](https://img.shields.io/badge/2022-Joined_GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
+![2025](https://img.shields.io/badge/2025--Present-Building_on_GitHub-0B6EFD?style=for-the-badge&logo=github&logoColor=white)
 
 - **2025 – Present:** Building on GitHub — MYWEBSITE, Calculator, and cozyadventure
 - **2022:** Joined GitHub and started exploring code
@@ -40,3 +48,5 @@ Off the keyboard, you'll usually find me playing VALORANT. I like games that rew
 ---
 
 Currently learning, building, and shipping — one project at a time.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0b6efd,100:00c6ff&height=120&section=footer" alt="footer" />
